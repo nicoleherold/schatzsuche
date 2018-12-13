@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC:700');
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+.nameInArrows {
+  font-family: 'Amatic SC', cursive;
+  color: black;
+  font-size: 50px;
+}
+
+.pfeil {
+  
+    height: 60vmin;
+  }
+  
+  
+  
+  .Logo {
+    animation: windrose-spin infinite 20s linear;
+    height: 25vmin;
+  }
+  
+  .Header {
+    margin: auto auto 0 auto;
+
+    /* height: 10vh; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    /* font-size: calc(10px + 2vmin); */
+    color: white;
+    width: 100vw;
+  }
+  
+  
+  @keyframes windrose-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+  
+  @keyframes pfeil-rechts {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+ 
+  

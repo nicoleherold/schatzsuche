@@ -1,0 +1,140 @@
+[
+
+    {
+        "id" : "0",
+        "text": "Willkommen zur Schatzsuche in Riggisberg! Wichtig: frühste Startzeit: 9 Uhr, späteste Zielankunft: 17 Uhr,  Dauer ohne Pause: ca. 2 Stunden, Gehdistanz: ca. 5 km, Kinderwagengängig: 3 von 5",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "1",
+        "text": "Vor der Postautostation «Riggisberg Post» gehts los. Wählt den Weg in Richtung Schloss.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "2",
+        "text": "Wenn ihr diesem hölzernen Herrn begegnet, stimmt die Richtung.",
+        "notes": "false",
+        "code": "false"
+    }, 
+
+    {
+        "id" : "3",
+        "text" : "Wie viele dieser Strassenlampen zählt ihr vom Holzhaus bis zum Fussgängerstreifen? Folgt weiter der Strasse.",
+        "notes": "true",
+        "answer": "8",
+        "code": "false"
+    },
+
+    {
+        "id" : "4",
+        "text" : "Hübsch dieses Schlossgartenschild, nicht? Wie viele Blumen entdeckt ihr darauf?",
+        "notes": "true",
+        "answer": "8",
+        "code": "false"
+    },
+
+    {
+        "id" : "5",
+        "text" : "Ganz in der Nähe findet ihr auch einen Hinweis darauf, wie viele Meter über Meer sich das Schloss befindet. Notiert euch die letzte Ziffer der Höhenangabe",
+        "notes": "true",
+        "answer": "5",
+        "textcode": "Wir rechnen für dich: Anzahl Strassenlampen aus Punkt 3 minus Anzahl Blumen aus Punkt 4 plus die letzte Ziffer der Höhenmeter aus Punkt 5. Dies ist die erste Ziffer des Codes zur Schatztruhe.",
+        "code": "true",
+        "answercode": "5"
+    },
+
+    {
+        "id" : "6",
+        "text" : "Auf Höhe der Wegweiser biegt ihr in die Sackgasse ab, dem Wanderweg folgend. Hier säumen einige frisch gepflanzte, junge Obstbäume den Weg. Wie viele zählt ihr auf der rechten Seite? ",
+        "notes": "true",
+        "answer": "16",
+        "code": "false"
+    },
+
+    {
+        "id" : "7",
+        "text" : "Ab hier gehts im Zickzack-Kurs: Nach den Obstbäumen biegt ihr rechts ab, nach 50 Metern links, danach wieder rechts. Notiert euch die letzte Ziffer der Jahrzahl, welche auf dem Brunnen vermerkt ist.",
+        "notes": "true",
+        "answer": "4",
+        "textcode": "Wir rechnen für dich: Die Anzahl Bäume aus Punkt 6 geteilt durch die letzte Ziffer der Jahrzahl aus Punkt 7. Nun habt ihr die zweite Ziffer des Codes. Folgt anschliessend der Strasse in Richtung Süden.",
+        "code": "true",
+        "answercode": "4"
+    },
+
+    {
+        "id" : "8",
+        "text" : "Ab hier geht es gemächlich geradeaus, der Mountainbikeroute folgend. Nach der grossen Biegung jedoch wählt ihr nicht die Veloroute in den Wald. Ihr geht weiter Richtung Westen.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "9",
+        "text" : "Entdeckt ihr diesen Findling auf der rechten Strassenseite? Dann seid ihr richtig!",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "10",
+        "text" : "Auch nachdem ihr das kleine Wäldchen passiert habt, geht ihr geradeaus auf dem Wanderweg weiter. Dabei passiert ihr diesen Löschweiher.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "11",
+        "text" : "Beim Wegweiser/Punkt Hohlenweg angekommen, wählt ihr den Weg Richtung Schwarzenburg. Auf welcher Höhe über Meer befindet ihr euch? Notiert euch die letzte Ziffer!",
+        "notes": "true",
+        "answer": "7",
+        "code": "false"
+    },
+
+    {
+        "id" : "12",
+        "text" : "Kurz vor diesem Schild biegt ihr rechts ab, verlasst also den Wanderweg, und geht weiter auf der Strasse, die talwärts führt.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "13",
+        "text" : "Findet ihr die Hausnummer an dieser Scheune? Notiert sie!",
+        "notes": "true",
+        "answer": "8",
+        "textcode": "Nun rechnet: Die Hausnummer aus Punkt 13 minus die letzte Ziffer der Höhenmeterangabe aus Punkt 11. Schon habt ihr die letzte Ziffer zur Schatztruhe.",
+        "code": "true",
+        "answercode":"1"
+    },
+
+    {
+        "id" : "14",
+        "text" : "Nun folgen auf der asphaltierten Strasse drei Y-Verzweigungen: Wählt zuerst zweimal den linken und bei der dritten Verzweigung den rechten Weg. Entdeckt ihr dieses Metallschild bei der dritten Verzweigung? Dann seid ihr richtig und befindet euch schon bald auf einer Kuppe. Ab hier gehts steil bergab.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "15",
+        "text" : "Beim Haus mit den vielen Plaketten wählt ihr den Weg zurück Richtung Riggisberg.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "16",
+        "text" : "Bravo, ihr habt den Muriboden-Hof erreicht. Los geht die Suche nach der Truhe!",
+        "notes": "false",
+        "code": "false",
+        "end": "true",
+        "endtext": "Dein Schatztruhe-Code: ",
+        "key1": "5",
+        "key2": "4",
+        "key3": "1"
+    }
+
+]

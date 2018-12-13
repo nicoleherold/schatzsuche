@@ -1,0 +1,45 @@
+[
+
+    {
+        "id" : "0",
+        "head": "Auf zur Schatzsuche",
+        "inhalt" : "Zum bereits sechsten Mal lädt die BZ Berner Zeitung zur spannenden Schatzsuche durch fünf Städte und Dörfer im Kanton Bern ein. Fred wird euch in diesem Jahr auf der Schatzsuche begleiten. Er ist ein lustiger, aufgeweckter Junge. Er geht nicht gern allein auf Schatzsuche. Seine Mama und sein Papa sind immer dabei."
+         
+    },
+
+    {
+        "id" : "1",
+        "head": "So geht's",
+        "inhalt": "Vom 7. Juli bis zum 12. August 2018 hat eure Lieblingszeitung an fünf Orten in der Region einen Schatz versteckt. Wer den Code knackt, kriegt mindestens einen Sofortpreis und hat zusätzlich die Chance auf einen der zehn wertvollen Hauptgewinne."
+    },
+
+    {
+        "id" : "2",
+        "head": "Wählt eine Route",
+        "inhalt": "Jede Route beginnt an einem Bahnhof oder einer Haltestelle. Startet am Bahnhof und folgt den Anweisungen. Orientiert euch an den durchnummerierten Bildern und schriftlichen Hinweisen."
+
+    }, 
+
+    {
+        "id" : "3",
+        "head": "Knackt den Code",
+        "inhalt": "Es erwarten euch schöne Aussichten und wichtige Zahlen. Schaut genau, sammelt die Zahlen und dann rechnen wir für euch. So kommt ihr dem Schatz immer näher. Nicht vergessen: Gebt eure Zahlen ein, sie bilden am Schluss den Zahlencode – den Schlüssel zum Schatz."
+
+    },
+
+    {
+        "id" : "4",
+        "head": "Wichtig",
+        "inhalt": "Zu Beginn jeder Route erhaltet Ihr Infos über Dauer, Start- und Endzeiten und die Kinderwagentauglichkeit. Haltet euch an die Endzeiten, denn nur so habt ihr Zugang zur Schatzkiste."
+
+    },
+
+    {
+        "id" : "5",
+        "head": "Schatztruhe gefunden",
+        "inhalt": "Ihr dürft einen Sofortpreis mitnehmen und am Wettbewerb teilnehmen. Am Ende jeder Route gelangt ihr mit öffentlichen Verkehrsmitteln oder zu Fuss zurück zum Startpunkt. Die entsprechenden Angaben findet ihr im Deckel der Schatztruhe. Alle Routen sind kinderwagentauglich, jedoch zum Teil anspruchsvoll." 
+
+    }
+
+
+]

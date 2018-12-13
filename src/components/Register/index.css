@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC:700|Permanent+Marker|Source+Sans+Pro:200,300');
+
+
+
+
+.signUp {
+    /* display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center; */
+padding: 40px;
+
+text-align: center;
+
+background-color: #ddf0f5;
+
+/* background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
+background-size: 400% 400%;
+-webkit-animation: Gradient 65s ease infinite;
+-moz-animation: Gradient 65s ease infinite;
+animation: Gradient 65s ease infinite; */
+font-family: 'Source Sans Pro', sans-serif;
+
+
+
+}
+
+.registerSubmit {
+    margin-top: 10px;
+    height: 50px;
+    width: 95%;
+    font-size: 25px;
+    background-color: #23D5AB;
+    color: white;
+    cursor: hand;
+    border-radius: 24px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+#green {
+    background-color: #23D5AB;
+    color: black;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 24px;
+    border-radius: 24px;
+}
+
+
+button{
+
+    height: 45px;
+    width:90%;
+    font-size: 25px;
+    background-color: #0992b9;
+    color: white;
+    cursor: hand;
+}
+
+
+
+
+
+label {
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 200;
+
+
+}
+
+
+input {
+    font-family: 'Source Sans Pro', sans-serif;
+    padding-left: 15px;
+    margin: 15px;
+    height: 45px;
+    width: 95%;
+    font-size: 20px;
+    border: 1px #989696 solid;
+}
+
+
+.modal {
+    font-size: 20px;
+
+
+
+}
+  .modal > .header {
+    width: 100%;
+    border-bottom: 1px solid gray;
+    font-size: 28px;
+    text-align: center;
+    padding: 5px;
+    font-family: 'Permanent Marker', cursive;
+  }
+  .modal > .content {
+    width: 100%;
+    padding: 10px 5px;
+    /* background-color: #70f1de */
+  }
+  .modal > .actions {
+    width: 100%;
+    padding: 10px 5px;
+    margin: auto;
+    text-align: center;
+  }
+  .modal > .close {
+    /* cursor: hand; */
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    display: block;
+    padding: 2px 5px;
+    line-height: 20px;
+    right: -17px;
+    top: -17px;
+    font-size: 24px;
+    background: #ffffff;
+    border-radius: 36px;
+    border: 1px solid #cfcece;
+    color: black;
+  }

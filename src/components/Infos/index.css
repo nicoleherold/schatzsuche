@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC:700');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: 300;
+}
+
+
+
+.infoseite {
+    margin: auto auto 0 auto;
+    /* background: linear-gradient(120deg, #77efe7, #018fe0); */
+    background-color: #99cfb2;
+    font-family: 'Source Sans Pro', sans-serif;
+    min-height: 95vh;
+    width: 100%;
+    /* display: flex; */
+    /* flex-direction: row; */   
+  }
+
+
+.headline {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 25px;
+
+}
+
+.inhalt {
+    padding: 3px;
+    font-family: 'Amatic SC', cursive;
+    font-size: 35px;
+
+}
+
+
+
+.infoside {
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #99cfb2;
+}
+
+
+.fred {
+    /* margin-bottom: 85px; */
+    text-align: center;
+     padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+
+
+
+.headInfo {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 35px;
+    font-style: 200;
+     padding-left: 20px;
+    padding-right: 20px;
+
+
+}
+.allInfo {
+    padding-bottom: 150px;
+    background-color: #99cfb2;
+    /* padding-left: 20px;
+    padding-right: 20px; */
+}
+
+.zentrieren {
+    text-align: center;
+    display: flex;
+}

@@ -1,0 +1,154 @@
+[
+
+    {
+        "id" : "0",
+        "text": "Willkommen zur Schatzsuche an der Lenk! Wichtig: frühste Startzeit: 9 Uhr, späteste Zielankunft: 17 Uhr,  Dauer ohne Pause: ca. 1.5 Stunden, Gehdistanz: ca. 3.5 km, Kinderwagengängig: 4 von 5",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "1",
+        "text": "Los gehts am Bahnhof, und zwar in südwestlicher Richtung.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "2",
+        "text": "Wenn ihr hier vorbeikommt, seid ihr richtig. Überquert beim Kreisel die Strasse und folgt der Simme flussaufwärts.",
+        "notes": "false",
+        "code": "false"
+    }, 
+
+    {
+        "id" : "3",
+        "text" : "Bei diesem Schild überquert ihr die Simme und geht weiter in die signalisierte Fussgängerzone.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "4",
+        "text" : "Auf dem Kronenplatz trefft ihr auf diese Skulptur. Wie viele symbolisierte Menschen könnt ihr in dieser Skulptur erkennen?",
+        "notes": "true",
+        "answer": "7",
+        "textcode": "Wir rechnen für dich: Die Zahl ist die erste Ziffer zum Schatztruhe-Code. Verlasst den Kronenplatz in Richtung Norden.",
+        "code": "true",
+        "answercode":"7"
+    },
+
+    {
+        "id" : "5",
+        "text" : "Habt ihr diese Tafel entdeckt? An dieser gehts vorbei zur Kirche.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "6",
+        "text" : "In welchem Jahrhundert stand an diesem Standort die erste Kirche?",
+        "notes": "true",
+        "answer": "16",
+        "code": "false"
+    },
+
+    {
+        "id" : "7",
+        "text" : "Weiter gehts via die leicht ansteigende Aegertenstrasse in Richtung Badi.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "8",
+        "text" : "Unterwegs kommt ihr an diesen Strassenlampen vorbei. Wie viele davon zählt ihr?",
+        "notes": "true",
+        "answer": "9",
+        "textcode": "Wir rechnen für dich: Die Zahl aus Frage 6 minus die Zahl aus Frage 8. Das Resultat ist die zweite Ziffer zum Schatztruhe-Code.",
+        "code": "true",
+        "answercode":"7"
+    },
+
+    {
+        "id" : "9",
+        "text" : "Bevor ihr den Bach überquert, geht es links bergwärts in Richtung Wallegg.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "10",
+        "text" : "Bei diesem Schild gehts in einer Spitzkehre nach links und nur noch leicht bergwärts. Folgt dem Wanderweg.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "11",
+        "text" : "Habt ihr diesen Hydranten entdeckt? Dann seid ihr richtig. Folgt weiter dem Wanderweg für gut 300 Meter.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "12",
+        "text" : "Am Waldrand entdeckt ihr rechter Hand den Lenkbach. Über wie viele Stufen oberhalb des Spiegels fliesst hier der Bach ins Tal? Weiter gehts bachabwärts.",
+        "notes": "true",
+        "answer": "11",
+        "code": "false"
+    },
+
+    {
+        "id" : "13",
+        "text" : "Habt ihr den Schwefelbrunnen entdeckt? Dann seid ihr richtig.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "14",
+        "text" : "Folgt nun dem Schild zum Bahnhof.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "15",
+        "text" : "Ihr kommt an der katholischen Kirche vorbei. Wie viele bunte Glasfenster hat diese? Biegt nach der Kirche rechts ab und folgt der Strasse in Richtung Süden.",
+        "notes": "true",
+        "answer": "11",
+        "code": "false"
+    },
+
+    {
+        "id" : "16",
+        "text" : "Nach etwa 200 Metern entdeckt ihr dieses Schild. Folgt diesem bis an den See.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "17",
+        "text" : "Rund um den See gibt es einige Sitzbänke. Wie viele Sitzbänke dieser Bauart zählt ihr?",
+        "notes": "true",
+        "answer": "11",
+        "textcode": "Wir rechnen für dich: Wie viele Einsen sind in den Antworten aus Frage 12, 15 und 17 versteckt? Die Zahl ist die letzte Ziffer zum Schatztruhe-Code.",
+        "code": "true",
+        "answercode":"6"
+    },
+
+    {
+        "id" : "18",
+        "text" : "Der Schatz liegt auf dem Spielplatz verborgen. Und zwar beim Gebäude. Truhe gefunden? Stimmt der Code? Dann herzliche Gratulation!!",
+        "notes": "false",
+        "code": "false",
+        "end": "true",
+        "endtext": "Dein Schatztruhe-Code: ",
+        "key1": "7",
+        "key2": "7",
+        "key3": "6"
+    }
+
+
+]

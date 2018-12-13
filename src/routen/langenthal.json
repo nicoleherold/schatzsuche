@@ -1,0 +1,157 @@
+[
+
+    {
+        "id" : "0",
+        "text": "Eillkommen zur Schatzsuche in Langenthal! Wichtig: frühste Startzeit: 9 Uhr, späteste Zielankunft: 17 Uhr,  Dauer ohne Pause: ca. 2 Stunden, Gehdistanz: ca. 5 km, Kinderwagengängig: 5 von 5",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "1",
+        "text": "Los gehts am Bahnhof. Folgt der Jurastrasse in südöstlicher Richtung.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "2",
+        "text": "Habt ihr diesen riesigen Baum entdeckt? Dann seid ihr richtig. Folgt dem Wegweiser in Richtung Stadtzentrum.",
+        "notes": "false",
+        "code": "false"
+    }, 
+
+    {
+        "id" : "3",
+        "text" : "Vor dem Stadttheater steht diese Skulptur. Aus welchem Jahr stammt sie? Notiert euch die letzten beiden Ziffern.",
+        "notes": "true",
+        "answer": "54",
+        "code": "false"
+    },
+
+    {
+        "id" : "4",
+        "text" : "Folgt der Strasse bis zum Turm und überquert den Wuhrplatz.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "5",
+        "text" : "Wie viele Kreise sind auf dem Platz, vom Brunnen ausgehend, angedeutet? ",
+        "notes": "true",
+        "answer": "33",
+        "code": "false"
+    },
+
+    {
+        "id" : "6",
+        "text" : "Sucht euch den Weg zu dieser Kirche. In welchem Jahrhundert wurde sie erstmals erwähnt?",
+        "notes": "true",
+        "answer": "12",
+        "textcode": "Wir rechnen für dich: Die letzten beiden Ziffern der Zahl aus Frage 3 minus die Zahl aus Frage 5 minus die Zahl aus Frage 6. Das Resultat ist die erste Ziffer zum Code zur Schatztruhe.",
+        "code": "true",
+        "answercode": "9"
+    },
+
+    {
+        "id" : "7",
+        "text" : "In der Umgebung der Kirche trefft ihr auf diesen Brunnen. Folgt von hier aus dem Wanderweg hügelwärts.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "8",
+        "text" : "Kurz vor dem höchsten Punkt erreicht ihr diese Tafel zum Grenzpfad Napfland. Wie viele Aussichtspunkte sind verzeichnet? Biegt links in den Wald ab.",
+        "notes": "true",
+        "answer": "10",
+        "code": "false"
+    },
+
+    {
+        "id" : "9",
+        "text" : "Bei diesem Findling biegt ihr rechts ab.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "10",
+        "text" : "Ihr erreicht den Tierpark. Durchquert den Park und geht südwestlich am Zwergziegen-Gehege vorbei.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "11",
+        "text" : "Am südlichen Ausgang des Tierparks steht inmitten von vier mächtigen Bäumen diese Parkbank. Welche Nummer steht auf der Rückseite?",
+        "notes": "true",
+        "answer": "119",
+        "textcode": "Und nun die Frage, die zur zweiten Ziffer des Codes zur Schatztruhe führt: Wie viele Einsen gibts in den Lösungen zur Frage 8 und zur Frage 10? Wir rechnen für dich!",
+        "code": "true",
+        "answercode": "3"
+    },
+
+    {
+        "id" : "12",
+        "text" : "Geht weiter in südlicher Richtung. Beim Wegweiser/ Punkt Hinterberg folgt ihr dem Wanderweg in Richtung Allme.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "13",
+        "text" : "Folgt stets dem Wanderweg. Nach rund zehn Minuten erreicht ihr einen gemütlichen, grosszügig angelegten Rastplatz. Wie viele rote Parkbänke stehen insgesamt auf dem Gelände?",
+        "notes": "true",
+        "answer": "11",
+        "code": "false"
+    },
+
+    {
+        "id" : "14",
+        "text" : "Folgt weiter dem Wanderweg. Es geht abwärts, und wenn ihr die Hauptstrasse erreicht, geht ihr in allgemeiner Richtung Langenthal weiter. Bei dieser Ortseingangstafel überquert ihr die Strasse und geht hinein ins Quartier.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "15",
+        "text" : "Folgt dem Fliederweg für rund 200 Meter und biegt dann in den Tulpenweg ein. Über einen schmalen Fussweg erreicht ihr die Allmengasse und diesen Hydranten. Geht nun in Richtung Süden weiter.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "16",
+        "text" : "Nach rund 50 Metern erblickt ihr dieses Fahrverbot. Biegt rechts in den Fussweg ein und geht weiter, bis ihr das Ufer der Langete erreicht.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "17",
+        "text" : "Flussaufwärts geht es weiter. Wie viele Räder haben die Fahrzeuge auf diesem Schild, wenn man sie zusammenzählt?",
+        "notes": "true",
+        "answer": "8",
+        "textcode": "Wir rechnen für dich: Die Zahl aus Frage 13 minus die Zahl aus Frage 17 ergibt die letzte Ziffer zum Code unserer Schatztruhe.",
+        "code": "true",
+        "answercode": "3"
+    },
+
+    {
+        "id" : "18",
+        "text" : "Folgt der Langete immer weiter, bis ihr dieses Gebäude erreicht. Der Schatz ist nun nicht mehr fern. Stimmt der Code? Herzliche Gratulation!",
+        "notes": "false",
+        "code": "false",
+        "end": "true",
+        "endtext": "Dein Schatztruhe-Code: ",
+        "key1": "9",
+        "key2": "3",
+        "key3": "3"
+    }
+
+
+
+
+]

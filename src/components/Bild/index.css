@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC:700');
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+.bild {
+    max-width: 100%;
+    height: auto;
+    max-height: 50%;
+    padding: 25px;
+    /* background-image: 'rahmen.png'; */
+}
+
+h1 {
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+}
+
+.all {
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-top: -80px;
+}
+
+.dot {
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    border-radius: 50%;
+    align-items: center;
+    /* border: 2px solid black; */
+
+
+
+}
+
+
+.showroom {
+    background-image: url(./rahmen.png);
+    background-size: contain;
+    background-repeat:no-repeat;
+    /* width: 80vw; */
+
+        -ms-transform: rotate(-7deg); /* IE 9 */
+        -webkit-transform: rotate(-7deg); /* Chrome, Safari, Opera */
+        transform: rotate(-7deg);
+}
+

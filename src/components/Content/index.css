@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC:700');
+
+
+* {
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: 300;
+}
+
+
+.Content {
+
+    margin: auto auto 0 auto;
+    /* padding-bottom: 50px; */
+    /* background: linear-gradient(120deg, #77efe7, #018fe0); */
+  
+
+    font-family: 'Source Sans Pro', sans-serif;
+
+    /* background-color:  #d0dfb9; */
+    min-height: 90vh;
+    /* 100vh;*/
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    /* font-size: calc(10px + 2vmin); */
+    
+  }
+
+  .routeAnschreiben {
+    font-family: 'Amatic SC', cursive;
+    font-size: 55px;
+    margin-top: 0px;
+
+  }
+
+  #riggisberg {
+  background-color: #b7d16a;;
+  }
+
+  #bern {
+  background-color: #8bd2f6;
+  }
+
+  #langenthal {
+    background-color: #f8d85e;
+  }
+
+
+  #spiez {
+    background-color: #f6b0b3;
+  }
+
+  #lenk {
+    background-color: #99cfb2;
+  }
+  

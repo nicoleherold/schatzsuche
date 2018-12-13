@@ -1,0 +1,142 @@
+[
+
+    {
+        "id" : "0",
+        "text": "Willkommen zur Schatzsuche in Spiez! Wichtig: frühste Startzeit: 9 Uhr, späteste Zielankunft: 17 Uhr,  Dauer ohne Pause: ca. 2 Stunden, Gehdistanz: ca. 4.5 km, Kinderwagengängig: 4 von 5",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "1",
+        "text": "Los gehts am Bahnhof, und zwar in südöstlicher Richtung.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "2",
+        "text": "Nach rund 100 Metern folgt ihr dem Schild, das euch auf die Strasse zum See führt.",
+        "notes": "false",
+        "code": "false"
+    }, 
+
+    {
+        "id" : "3",
+        "text" : "Nach ein paar Minuten erreicht ihr den Kronenplatz mit dieser Skulptur. Darauf findet ihr eine Art Prägestempel. Wie viele Buchstaben beinhaltet dieser?",
+        "notes": "true",
+        "answer": "8",
+        "code": "false"
+    },
+
+    {
+        "id" : "4",
+        "text" : "Geht weiter Richtung See. Nachdem ihr die 30er-Zone erreicht habt, biegt ihr links in jene Strasse ein, die bergwärts führt. Sobald ihr die Kirchgasse erreicht, folgt dieser in absteigender Reihenfolge der Hausnummern.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "5",
+        "text" : "Folgt dem Wanderweg, der an der Kirche vorbeiführt. Welche Hausnummer hat die Kirche?",
+        "notes": "true",
+        "answer": "3",
+        "code": "false"
+    },
+
+    {
+        "id" : "6",
+        "text" : "Folgt weiter dem Wanderweg, bis ihr direkt aufs Gemeindehaus blickt. Östlich des Gemeindehauses steht dieser Pavillon. Wie viele Fensteröffnungen hat dieser?",
+        "notes": "true",
+        "answer": "5",
+        "textcode": "Wir rechnen für dich: Die Zahl aus Frage 3 minus die Zahl aus Frage 5 minus die Zahl aus Frage 6. Das Resultat ist die erste Ziffer des Codes zur Schatztruhe.",
+        "code": "true",
+        "answercode": "0"
+    },
+
+    {
+        "id" : "7",
+        "text" : "Geht weiter in westlicher Richtung, an der Bibliothek und am Schulhaus vorbei. Biegt in die Asylstrasse ein.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "8",
+        "text" : "Folgt der Asylstrasse für rund 500 Meter. Über wie viele Strassenschwellen geht ihr hinweg, ehe ihr rechts in den Weidliweg einbiegt?",
+        "notes": "true",
+        "answer": "3",
+        "code": "false"
+    },
+
+    {
+        "id" : "9",
+        "text" : "Folgt weiter dem Weidliweg, bis ihr die Grillstelle erreicht. Wie viele Betonbänke stehen dort?",
+        "notes": "true",
+        "answer": "4",
+        "code": "false"
+    },
+
+    {
+        "id" : "10",
+        "text" : "Macht rechtsumkehrt und folgt dem Wanderweg, der in den Jagdbannbezirk führt. Unser Weg führt immer leicht bergwärts. Bei der zweiten Abzweigung folgt ihr dem Vita-Parcours.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "11",
+        "text" : "Unterwegs stosst ihr auf diese Pfosten. Rote Pfosten sind häufiger als weisse Pfosten. Wie gross ist die Differenz?",
+        "notes": "true",
+        "answer": "2",
+        "textcode": "Wir rechnen für dich: Die Zahl aus Frage 8 plus die Zahl aus Frage 9 minus die Zahl aus Frage 11. Das Resultat ist die zweite Ziffer des Codes zur Schatztruhe.",
+        "code": "true",
+        "answercode": "5"
+
+    },
+
+    {
+        "id" : "12",
+        "text" : "Beim Wegweiser/Punkt 660 sucht ihr den Weg an den südlichen Waldrand. Belohnt werdet ihr mit dieser tollen Sicht auf den Niesen.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "13",
+        "text" : "Beim Start des Vita-Parcours biegt ihr auf den Naturlehrpfad ein und folgt diesem talwärts.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "14",
+        "text" : "Unterwegs stosst ihr auf diese umfunktionierten Weinfässer. Wie viele davon liegen hier herum?",
+        "notes": "true",
+        "answer": "3",
+        "textcode": "Dies ist die dritte Ziffer des Codes zur Schatztruhe.",
+        "code": "true",
+        "answercode": "3"
+    },
+
+    {
+        "id" : "15",
+        "text" : "Biegt scharf rechts in jenen Weg ein, der durch den Rebberg seewärts führt. Linker Hand seht ihr den legendären «Chatzestei». Folgt weiterhin dem Wanderweg.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "16",
+        "text" : "Biegt in die Strasse ein, die zum Schloss führt, und zwar bis ihr dieses Gebäude erreicht. Und jetzt ist auch die Schatztruhe nicht mehr weit – wer sucht, der findet. Passt der Code? Herzliche Gratulation!",
+        "notes": "false",
+        "code": "false",
+        "end": "true",
+        "endtext": "Dein Schatztruhe-Code: ",
+        "key1": "0",
+        "key2": "5",
+        "key3": "3"
+    }   
+
+
+]

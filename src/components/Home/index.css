@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC:700');
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.Footer {
+   /* Anfang Footer zu fixieren*/
+    position: fixed; 
+    left: 0px;
+    bottom: 0px; 
+
+    width: 100%; 
+/* ENde Footer fixieren */ 
+
+
+
+
+    margin: auto auto 0 auto;
+    align-self:flex-end;
+    padding-right: 20px;
+    padding-left: 20px;
+
+    /* background: linear-gradient(120deg, #1D91D5, #0BBE8D); */
+/* 
+    background-color: #0BBE8D; */
+    background-color: #0094e7;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;;
+    align-self:flex-end;
+    /* font-size: calc(10px + 2vmin); */
+    color: white;
+
+  }
+
+
+
+
+  .icon {
+    /* animation: windrose-spin infinite 40s linear; */
+    height: 16vmin;
+  }
+
+  .Home {
+      text-align: center;
+      background-color: #ddf0f5;
+      margin: auto auto 0 auto;
+      /* height: 100vh; */
+      /* 100vh;*/
+      width: 100%;
+      
+ 
+  }
+
+  .bild {
+    max-width: 100%;
+    height: auto;
+    max-height: 50%;
+    padding: 25px;
+    /* background-image: 'rahmen.png'; */
+    text-align: center;
+}
+
+#buttonbern {
+    background-color: #8bd2f6;
+    color: black;
+    font-style: 700;
+    font-family: 'Amatic SC', cursive;
+    font-size: 45px;
+    height: 60px;
+    margin-bottom: 15px;
+}
+
+#buttonriggisberg {
+    background-color: #b7d16a;
+    color: black;
+    font-style: 700;
+    font-family: 'Amatic SC', cursive;
+    font-size: 45px;
+    height: 60px;
+    margin-bottom: 15px;
+}
+
+
+#buttonlangenthal {
+    background-color: #f8d85e;
+    color: black;
+    font-style: 700;
+    font-family: 'Amatic SC', cursive;
+    font-size: 45px;
+    height: 60px;
+    margin-bottom: 15px;
+}
+
+#buttonspiez {
+    background-color: #f6b0b3;
+    color: black;
+    font-style: 700;
+    font-family: 'Amatic SC', cursive;
+    font-size: 45px;
+    height: 60px;
+    margin-bottom: 15px;
+}
+
+
+#buttonlenk {
+    background-color: #99cfb2;
+    color: black;
+    font-style: 700;
+    font-family: 'Amatic SC', cursive;
+    font-size: 45px;
+    height: 60px;
+    margin-bottom: 150px;
+}
+
+.hallo {
+    padding-left: 20px;
+    padding-right: 20px;
+}

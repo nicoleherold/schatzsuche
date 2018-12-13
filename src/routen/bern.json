@@ -1,0 +1,166 @@
+[
+
+    {
+        "id" : "0",
+        "text": "Willkommen zur Schatzsuche in Bern! Wichtig: frühste Startzeit: 9 Uhr, späteste Zielankunft: 17 Uhr, Dauer ohne Pause: ca. 2.5 Stunden, Gehdistanz: ca. 5.5 km, Kinderwagengängig: 4 von 5",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "1",
+        "text": "Los gehts am Bahnhof, und zwar vorerst in Richtung Baldachin.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "2",
+        "text": "Weiter gehts geradeaus, an der berühmtesten Gebäudeecke Berns und am Bundeshaus West vorbei bis zu diesem Tor, das am Eingang zur Kleinen Schanze steht. Aus welchem Jahrhundert stammt das Tor?",
+        "notes": "true",
+        "answer": "19",
+        "code": "false"
+    }, 
+
+    {
+        "id" : "3",
+        "text" : "Biegt links ab auf die Bundesterrasse, bis ihr die Südfassade des Bundeshauses West entdeckt. Wie viele Tiere zieren den Balkon?",
+        "notes": "true",
+        "answer": "16",
+        "code": "false"
+    },
+
+    {
+        "id" : "4",
+        "text" : "Verlasst die Bundesterrasse und geht via Vannazhalde hinunter in Richtung Marzili. Wie viele solcher Lampen säumen den Weg bis zur Treppe? Mit dem Kinderwagen wählt ihr stattdessen den Weg ostwärts über die Bundesterrasse, ehe ihr beim Hotel Bellevue rechts in den Münzrain abbiegt und so in Richtung Marzili hinuntergeht.",
+        "notes": "true",
+        "answer": "8",
+        "code": "false"
+    },
+
+    {
+        "id" : "5",
+        "text" : "Folgt diesem Wegweiser.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "6",
+        "text" : "Rechter Hand entdeckt ihr dieses Schild. Wie viele Ecken hat der Grundriss des Gebäudes, das zu diesem Schild gehört?",
+        "notes": "true",
+        "answer": "8",
+        "textcode": "Wir rechnen für dich: Die Zahl aus Frage 2 minus die Zahl aus Frage 3 plus die Zahl aus Frage 4 minus die Zahl aus Frage 6. Das Resultat ist die erste Ziffer zum Schatztruhe-Code.",
+        "code": "true",
+        "answercode": "3"
+    },
+
+    {
+        "id" : "7",
+        "text" : "Geht weiter aareaufwärts und überquert den Fluss bei der Dalmazibrücke, wo das Klubhaus des Pontoniervereins Bern steht. In welchem Jahr wurde der Verein gegründet? Merkt euch die letzte Zahl.",
+        "notes": "true",
+        "answer": "6",
+        "code": "false"
+    },
+
+    {
+        "id" : "8",
+        "text" : "Sobald ihr den Fluss überquert habt, folgt ihr der Aare flussabwärts. Ihr kommt unter dieser Brücke hindurch. Aus wie vielen Buchstaben besteht der Name dieser Brücke?",
+        "notes": "true",
+        "answer": "17",
+        "code": "false"
+    },
+
+    {
+        "id" : "9",
+        "text" : "Folgt dem Wanderweg in Richtung Bärengraben. Habt ihr das Schild «Weg Orange» entdeckt? Dann seid ihr auf der richtigen Spur!",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "10",
+        "text" : "Angekommen beim Bärenpark stellt sich die Frage: Wie viele Bären entdeckt ihr im kleinen Bärengraben?",
+        "notes": "true",
+        "answer": "3",
+        "code": "false"
+    },
+
+    {
+        "id" : "11",
+        "text" : "Verlasst den Bärenpark und nehmt den Aufstieg via Aargauerstalden in Angriff. Wie viele Parkbänke entdeckt ihr, bis ihr die Kreuzung mit der Viktoriastrasse erreicht?",
+        "notes": "true",
+        "answer": "22",
+        "textcode": "Wir rechnen für dich: Die Zahl aus Frage 7 plus die Zahl aus Frage 8 plus die Zahl aus Frage 10 minus die Zahl aus Frage 11. Das Ergebnis ist die zweite Ziffer zum Schatztruhe-Code.",
+        "code": "true",
+        "answercode": "4"
+
+    },
+
+    {
+        "id" : "12",
+        "text" : "Überquert die Viktoriastrasse und biegt links ein, um dann vis-à-vis der Baustelle beim alten Posthauptsitz gleich wieder rechts in die Funkerstrasse einzubiegen. Wenn ihr dieses Logo an der Hausfassade entdeckt, biegt ihr erneut links ab.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "13",
+        "text" : "Folgt der Kasernenstrasse in nordwestlicher Richtung. Nach circa 500 Metern könnt ihr euch versichern, dass ihr richtig unterwegs seid, wenn ihr dieses Schild seht. Geht weiter geradeaus.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "14",
+        "text" : "Beim Breitenrainplatz überquert ihr die Tramgleise und biegt, am Coop-Gebäude vorbei, in die Stauffacherstrasse ein.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "15",
+        "text" : "Nach etwa 80 Metern gehts halb links in die Scheibenstrasse, nach 60 Metern biegt ihr links in den Schützenweg ein. Und nach weiteren 200 Metern seid ihr bei einem der populärsten Spielplätze der Stadt Bern angelangt. Wie viele Fenster hat das Flugzeugwrack?",
+        "notes": "true",
+        "answer": "16",
+        "code": "false"
+    },
+
+    {
+        "id" : "16",
+        "text" : "Verlasst den Spielplatz wieder via Haupteingang und folgt der Allmendstrasse in nördlicher Richtung. Bei der vierten Querstrasse biegt ihr rechts ab.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "17",
+        "text" : "Haltet nach dieser Brücke Ausschau Tipp: Schaut ab und zu nach links. Wenn ihr die Brücke entdeckt habt, geht in deren Richtung weiter.",
+        "notes": "false",
+        "code": "false"
+    },
+
+    {
+        "id" : "18",
+        "text" : "Auf der Brücke angekommen, entdeckt ihr – irgendwo in der Ferne – diesen imposanten Fernsehturm. Aus wie vielen Buchstaben ist der Name des Hügels zusammengesetzt, auf dem der Turm steht?",
+        "notes": "true",
+        "answer": "8",
+        "textcode": "Wir rechnen für dich: Die Zahl aus Frage 15 minus die Zahl aus Frage 18. Das Resultat ist die dritte Ziffer zum Schatztruhe-Code.",
+        "code": "true",
+        "answercode":"8"
+    },
+
+    {
+        "id" : "19",
+        "text" : "Nun müsst ihr nur noch dieses Gebäude finden. Betretet das Aussenareal, und nach wenigen Metern findet ihr die Schatztruhe an einem wettersicheren Ort. Gefunden? Stimmt der Code? Dann herzliche Gratulation!",
+        "notes": "false",
+        "code": "false",
+        "end": "true",
+        "endtext": "Dein Schatztruhe-Code: ",
+        "key1": "3",
+        "key2": "4",
+        "key3": "8"
+    }
+
+
+]
